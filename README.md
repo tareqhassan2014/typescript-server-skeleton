@@ -1,3 +1,5 @@
+# Typescript Server Skeleton
+
 ### 1) Initialize a git repository
 
 ```ch
@@ -52,4 +54,3 @@ yarn add express dotenv mongoose helmet morgan cors compression  jsonwebtoken bc
 yarn add -D typescript nodemon ts-node @types/express @types/node @types/dotenv @types/compression @types/cors @types/morgan @types/helmet @types/jsonwebtoken @types/bcrypt
 git init
 ```
-# typescript-server-skeleton
